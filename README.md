@@ -6,4 +6,4 @@
 5)git status ->displays the status<br/>
 6)git remote add name repositry ->to add a remote<br/>
 7)git pull origin -> it is used to fetch the updates from remote repositry<br/> 
-
+8)git clone link ->it is used to download the file from remote repositry<br/>
